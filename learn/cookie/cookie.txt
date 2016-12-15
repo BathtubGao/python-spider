@@ -1,6 +1,0 @@
-# Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
-
-testmanage.chebao.com.cn	FALSE	/CheBao	FALSE	1513224015	rememberMe	XEjS5HYFdaWrfLF4zkAc5vBC+HgE4f5iIQtk0jPy0uSibmWnxHy6QzRi9b0Cf5gcEa9KZvkpGXtMxvzhblOV8lG/rTE9r6ike4qsIQeOPwO8HdTFJJTUjP2EQPkVs70LU1hFZLuO2GajNAHrBtKJWRoeBk3EUNTNfa5nBcq7DdyBZH0X4eu5UpOLjutvlDPO4oGEE+HANUJbQDp86VdKD2C3/tkGjKQmoStRWPO6ZYlWOdgERlMQn3Rrd6FUlTf5jQ24U/VZH1OlN46KlC05J50ZBqyluq47DrUrVr3bPnwf576iqFJHLMPEItDwRwXcb5/KV+WAeO8IKWYBUAghKsUToNQ/cnIKtMk2e/e2iIvOVgXSuR0RjCqGWwczYZUmB1ehMILnv9ETCXmQffrV81HglnjK3OiMu7mcsijZ/1xgfyCd0VUxH3oZJ3h6bFJW5bE3ts7pbomxmKOu5lnYZozWHComI8oL6FvRfKBq7kJ9KRQXwhBP2JTYHVyWs2MxWwgr19DXuc+09FE2k+xEXw==
-testmanage.chebao.com.cn	FALSE	/CheBao/	FALSE		JSESSIONID	A2F9822975DA6C8D5E54CD34B16598EB
